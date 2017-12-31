@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "220599649397",
+    "firebase_url": "https://orderfoodapp-c1097.firebaseio.com",
+    "project_id": "orderfoodapp-c1097",
+    "storage_bucket": "orderfoodapp-c1097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220599649397:android:6c8137e2fe2b2785",
+        "android_client_info": {
+          "package_name": "mif50.com.orderfoodsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220599649397-5pbf299tml5ophu9c2fncha6vcm42v7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mif50.com.orderfoodsapp",
+            "certificate_hash": "53b32fe49e9ddf99c011d74806883eb5a34817fa"
+          }
+        },
+        {
+          "client_id": "220599649397-ccjoqa1hhuck4di5ugs7a6ms9e75orb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFh2phb6R5rYjPf4nPDC6Mgk_kl8XoBGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220599649397-ccjoqa1hhuck4di5ugs7a6ms9e75orb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220599649397:android:114be8e68f6a0b5e",
+        "android_client_info": {
+          "package_name": "mif50.com.orderfoodsserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220599649397-c5a7agttfbafp5t35ijd69hlljmb3s8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mif50.com.orderfoodsserver",
+            "certificate_hash": "53b32fe49e9ddf99c011d74806883eb5a34817fa"
+          }
+        },
+        {
+          "client_id": "220599649397-ccjoqa1hhuck4di5ugs7a6ms9e75orb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFh2phb6R5rYjPf4nPDC6Mgk_kl8XoBGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220599649397-ccjoqa1hhuck4di5ugs7a6ms9e75orb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

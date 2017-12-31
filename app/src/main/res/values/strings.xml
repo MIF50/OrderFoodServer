@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OrderFoodsServer</string>
+    <string name="txt_login">we transport product to customers as quickly as our ex betrays </string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_order_tracking">Map</string>
+</resources>
